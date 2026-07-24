@@ -22,6 +22,7 @@ Index of vault skills: reusable instructions for recurring task types.
 - [project-creator](./project-creator/SKILL.md) - create a complete project with agent-written plan, tasks, context, log, README, and index updates.
 - [vault-onboarding-guide](./vault-onboarding-guide/SKILL.md) - guided first-start onboarding.
 - [meeting-processing](./meeting-processing/SKILL.md) - process meetings, decisions, tasks, and routing.
+- [meeting-to-sales-article](./meeting-to-sales-article/SKILL.md) - turn a product meeting, presentation, and questions into a traceable sales reference article.
 - [context-compression](./context-compression/SKILL.md) - maintain compact meeting history in `meetings/README.md`.
 - [research](./research/SKILL.md) - source-first research with saved results.
 - [parking](./parking/SKILL.md) - save a return point.

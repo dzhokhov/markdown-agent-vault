@@ -6,6 +6,10 @@ This project uses early semantic versions. Until `v1.0.0`, breaking changes to s
 
 ## [Unreleased]
 
+### Added
+
+- Added `meeting-to-sales-article`, a privacy-safe vault skill that turns product presentations, transcripts, and meeting questions into a source-linked sales reference article, expert-review package, and rollout package.
+
 ### Changed
 
 - Clarified the README opening to describe the project as a file-based starter pack, distinguish it from plugins and hosted memory services, and add a concrete cross-session use case.
