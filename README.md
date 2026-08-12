@@ -1,15 +1,3 @@
----
-id: markdown-agent-vault-readme
-type: index
-status: active
-created: 2026-04-30
-updated: 2026-07-13
-aliases:
-  - "Markdown Agent Vault"
-tags: [vault, methodology, starter-pack]
-source_path: "README.md"
----
-
 # Markdown Agent Vault
 
 ## Essence
@@ -230,7 +218,6 @@ MIT. See [LICENSE](./LICENSE).
 - [ROADMAP.md](./ROADMAP.md)
 - [SUPPORT.md](./SUPPORT.md)
 ### Subdirectories
-- [.github](.github/README.md)
 - [03_knowledge](./03_knowledge/README.md)
 - [docs](./docs/README.md)
 - [meta](./meta/README.md)
